@@ -2,7 +2,7 @@
 namespace App\Controller;
 
 use App\Controller\AppController;
-use Cake\ORM\TableRegistry;
+use Cake\ORM\TableRegistry; 
 
 class DemoController extends AppController
 {
